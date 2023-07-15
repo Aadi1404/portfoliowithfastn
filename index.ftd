@@ -65,7 +65,6 @@ padding-bottom.px: 20
 margin-top.px: 30
 spacing.fixed.px: 20
 
-
 -- ftd.image:
 src: $assets.files.images.developer.png
 width.fixed.px: 250
